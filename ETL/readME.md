@@ -1,1 +1,3 @@
 Concluí a atividade da SDW (Santander Dev Week), proposta no curso de Fundamentos de Engenharia de Dados e Machine Learning da DIO. Neste projeto, desenvolvi um pipeline ETL em Python utilizando a biblioteca pandas, realizando a extração de dados a partir de um arquivo CSV, transformação com geração de informações personalizadas e carregamento dos resultados em um novo arquivo.
+
+https://hermes.dio.me/certificates/YZW038YX.pdf
