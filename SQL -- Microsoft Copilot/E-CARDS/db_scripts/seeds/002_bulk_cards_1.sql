@@ -1,0 +1,22 @@
+INSERT INTO tbl_cards (hp, name, info, attack, damage, weak, resis, retreat, cardNumberInCollection, collection_id, type_id, stage_id)
+VALUES
+(60, 'Pikachu', 'Mouse Pokémon', 'Thunder Jolt', '30', 'Fighting', 'Steel', '1 Colorless', 58, 1, 1, 1),
+(120, 'Charizard', 'Flame Pokémon', 'Fire Spin', '100', 'Water', 'Grass', '3 Colorless', 4, 1, 2, 3),
+(100, 'Blastoise', 'Shellfish Pokémon', 'Hydro Pump', '60+', 'Electric', 'Steel', '3 Colorless', 2, 1, 3, 3),
+(80, 'Venusaur', 'Seed Pokémon', 'Solar Beam', '60', 'Fire', 'Water', '2 Colorless', 15, 1, 4, 3),
+(70, 'Raichu', 'Mouse Pokémon', 'Thunder', '60', 'Fighting', 'Steel', '2 Colorless', 14, 1, 1, 2),
+(50, 'Jigglypuff', 'Balloon Pokémon', 'Pound', '20', 'Steel', 'Psychic', '1 Colorless', 54, 1, 5, 1),
+(90, 'Gengar', 'Shadow Pokémon', 'Nightmare', '30', 'Psychic', 'Fighting', '2 Colorless', 29, 1, 6, 2),
+(60, 'Machamp', 'Superpower Pokémon', 'Seismic Toss', '60', 'Psychic', 'Steel', '3 Colorless', 8, 1, 7, 3),
+(40, 'Caterpie', 'Worm Pokémon', 'String Shot', '10', 'Fire', 'Grass', '1 Colorless', 45, 1, 4, 1),
+(50, 'Metapod', 'Cocoon Pokémon', 'Harden', '—', 'Fire', 'Grass', '2 Colorless', 46, 1, 4, 2),
+(70, 'Butterfree', 'Butterfly Pokémon', 'Whirlwind', '20', 'Fire', 'Grass', '1 Colorless', 47, 1, 4, 3),
+(60, 'Magmar', 'Spitfire Pokémon', 'Smokescreen', '10', 'Water', 'Grass', '2 Colorless', 36, 1, 2, 1),
+(100, 'Arcanine', 'Legendary Pokémon', 'Flamethrower', '50', 'Water', 'Grass', '3 Colorless', 23, 1, 2, 2),
+(80, 'Poliwrath', 'Tadpole Pokémon', 'Water Gun', '30+', 'Electric', 'Steel', '2 Colorless', 13, 1, 3, 3),
+(60, 'Kadabra', 'Psi Pokémon', 'Confusion', '30', 'Psychic', 'Steel', '2 Colorless', 32, 1, 6, 2),
+(40, 'Abra', 'Psi Pokémon', 'Psyshock', '10', 'Psychic', 'Steel', '1 Colorless', 31, 1, 6, 1),
+(70, 'Hitmonchan', 'Punching Pokémon', 'Special Punch', '40', 'Psychic', 'Steel', '2 Colorless', 7, 1, 7, 1),
+(90, 'Electabuzz', 'Electric Pokémon', 'Thunder Shock', '30', 'Fighting', 'Steel', '2 Colorless', 20, 1, 1, 1),
+(60, 'Zapdos', 'Electric Pokémon', 'Thunderstorm', '60', 'Fighting', 'Steel', '3 Colorless', 16, 1, 1, 3),
+(100, 'Mewtwo', 'Genetic Pokémon', 'Psychic', '40+', 'Psychic', 'Steel', '3 Colorless', 10, 1, 6, 1);
