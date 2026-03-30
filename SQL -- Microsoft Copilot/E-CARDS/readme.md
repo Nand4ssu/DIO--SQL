@@ -1,3 +1,0 @@
-Este repositório é parte do meu aprendizado no uso do Microsoft Copilot para criar consultas SQL. Aqui estou praticando como usar a IA para gerar queries, entender as respostas e fazer ajustes quando necessário.
-
-O projeto faz parte do curso de TOTVS - Fundamentos de Engenharia de Dados e Machine Learning pela DIO, onde estou desenvolvendo minhas habilidades na área de dados e explorando o uso de ferramentas de IA no dia a dia.
