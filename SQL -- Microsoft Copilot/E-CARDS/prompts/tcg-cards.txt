@@ -1,0 +1,28 @@
+
+
+create a script to create a table in MySQL 
+
+- the first table is a table to save a pokemon tcg cards 
+- the second table is a table to save collections set 
+
+connect to tables with FOREIGN KEY
+
+first table: tbl_cards
+- id
+- hp
+- name
+- type
+- stage
+- info 
+- attack
+- dammage 
+- weak 
+- resis.
+- retreat 
+- cardNumberInCollection
+
+the second table: tbl_collections
+- id 
+- collectionSetName
+- release Date 
+- totalCardsInCollection
